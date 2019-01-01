@@ -1,8 +1,8 @@
 <name>Users&Database</name>
 <id>usersdatabase</id>
-<version>1.0.0.6</version>
+<version>1.0.0.7</version>
 <description>API to communicate between ZeroNet sites and ZeroNet &gt; Browser</description>
 <author>Daniell Mesquita</author>
-<helpurl>https://github.com/DaniellMesquita/ZeroFrame-plugin</helpurl>
+<helpurl>https://github.com/eventlr-engine/Users-Database-plugin</helpurl>
 <platform>ZeroNet</platform>
 <icon>icon.png</icon>
