@@ -1,6 +1,6 @@
 <name>Users&Database</name>
 <id>usersdatabase</id>
-<version>1.0.1.2</version>
+<version>1.0.1.3</version>
 <description>Manage user signup/login and SQL database</description>
 <author>Daniell Mesquita</author>
 <helpurl>https://github.com/eventlr-engine/Users-Database-plugin</helpurl>
