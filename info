@@ -1,7 +1,7 @@
 <name>Users&Database</name>
 <id>usersdatabase</id>
-<version>1.0.0.7</version>
-<description>API to communicate between ZeroNet sites and ZeroNet &gt; Browser</description>
+<version>1.0.0.8</version>
+<description>Manage user signup/login and SQL database</description>
 <author>Daniell Mesquita</author>
 <helpurl>https://github.com/eventlr-engine/Users-Database-plugin</helpurl>
 <platform>ZeroNet</platform>
